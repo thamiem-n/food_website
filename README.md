@@ -2,7 +2,7 @@
 
 A website about Pizza to practice CSS frameworks and responsive design
 
-Futureproof Day 3 Activities:
+### Futureproof Day 3 Activities:
 https://github.com/getfutureproof/fp_study_notes_CSS_frameworks
 https://github.com/getfutureproof/fp_study_notes_responsive_design
 
